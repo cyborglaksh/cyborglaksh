@@ -1,4 +1,6 @@
 
+![Welcome](https://media.makeameme.org/created/working-from-home-1a6af1fff2.jpg)
+
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
 
