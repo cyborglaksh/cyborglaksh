@@ -1,5 +1,5 @@
 
-![Welcome](https://www.canva.com/design/DAFI9IPnArU/nkrKB_-ExTCsKeHK4W1xYA/view?utm_content=DAFI9IPnArU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![Welcome]("cyborglaksh/cyborglaksh/wfh.png")
 
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
