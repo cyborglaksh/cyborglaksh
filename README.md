@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **I Like to crack jokes when I'm breathing..**
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" >
+                                                 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cyborglaksh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cyborglaksh" height="30" width="40" /></a>
