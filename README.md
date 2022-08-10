@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" >
+
 - 🌱 I’m currently learning **MERN - Express.js, React.js, Node.js**
 
 - 💬 Ask me about **C++, Python, Django**
@@ -14,7 +16,7 @@
 
 - ⚡ Fun fact **I Like to crack jokes when I'm breathing..**
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" >
+
                                                  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
