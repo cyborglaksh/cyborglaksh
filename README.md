@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
 
+<p align="left"> <a href="https://twitter.com/pr3d44t0r" target="blank"><img src="https://img.shields.io/twitter/follow/pr3d44t0r?logo=twitter&style=for-the-badge" alt="pr3d44t0r" /></a> </p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1714010/screenshots/10822383/media/ea98dfbdc8c2a056427061871bb42edc.gif" >
 
 - 🌱 I’m currently learning **MERN - Express.js, React.js, Node.js**
