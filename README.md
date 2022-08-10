@@ -1,5 +1,5 @@
 
-[![Welcome](https://pbs.twimg.com/media/EUFy_FpUwAguGvD.jpg](https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg)](https://linktr.ee/guptalaksh)
+[![Welcome](https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg)](https://linktr.ee/guptalaksh)
 
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
