@@ -1,5 +1,5 @@
 
-![Welcome](https://media.makeameme.org/created/working-from-home-1a6af1fff2.jpg)
+![Welcome]([https://media.makeameme.org/created/working-from-home-1a6af1fff2.jpg](https://www.canva.com/design/DAFI9IPnArU/50UGmfB7ldwhDyhPzI6lRg/edit?utm_content=DAFI9IPnArU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
 
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
