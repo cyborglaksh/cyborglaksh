@@ -1,5 +1,5 @@
 
-![Welcome]("cyborglaksh/cyborglaksh/wfh.png")
+[![Welcome]("cyborglaksh/cyborglaksh/wfh.png")](https://linktr.ee/guptalaksh)
 
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
