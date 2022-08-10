@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="(https://c4.wallpaperflare.com/wallpaper/170/85/290/anarchy-computer-hack-hacker-wallpaper-preview.jpg)" width="350" title="hover text">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
 </p>
 
-[![Welcome](http://www.codingvilla.in/wp-content/uploads/2019/11/baner3.jpg)](https://linktr.ee/guptalaksh)
+[![Welcome](http://www.codingvilla.in/wp-content/uploads/2019/11/baner.jpg)](https://linktr.ee/guptalaksh)
 
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
 <h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
