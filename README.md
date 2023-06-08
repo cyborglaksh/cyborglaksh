@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Laksh Gupta</h1>
-<h3 align="center">A CSE Enthusiast | Software Developer | Guitarist</h3>
+<h3 align="center">A CSE Enthusiast | Software Engineer | Developer | Competitive Programmer | Contributor </h3>
 
 <p align="right"> <a href="https://twitter.com/pr3d44t0r" target="blank"><img src="https://img.shields.io/twitter/follow/pr3d44t0r?logo=twitter&style=for-the-badge" alt="pr3d44t0r" /></a> </p>
 
