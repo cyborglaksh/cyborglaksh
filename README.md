@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [Resume/CV](https://drive.google.com/file/d/1LdPxNVcFLx-3QCK7XkCFtd8SsO4s9G-K/view?usp=sharing)
 
-- ⚡ Fun fact **I Like to crack jokes when I'm breathing..**
+- ⚡ Fun fact **I Like to crack jokes..**
 
 
                                                  
