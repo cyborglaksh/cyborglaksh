@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **MERN - Express.js, React.js, Node.js**
 
-- 💬 Ask me about **C++, Python, Django**
+- 💬 Ask me about **C++, Python, Django, Golang, React**
 
 - 📫 How to reach me **lakshgupta253@gmail.com**
 
